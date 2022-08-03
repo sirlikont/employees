@@ -10,11 +10,11 @@
   "author": "Sirli",
   "license": "ISC",
   "dependencies": {
+    "@koa-better-modules/joi-router": "^10.1.0",
     "body-parser": "^1.20.0",
     "knex": "^2.2.0",
     "koa": "^2.13.4",
     "koa-bodyparser": "^4.3.0",
-    "koa-joi-router": "^8.0.0",
     "mysql2": "^2.3.3"
   },
   "devDependencies": {
